@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Kv-Ramana01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+Cyber-Domain+%F0%9F%91%8B;Kv-Ramana01+%7C+Digital+Architect;[+Initializing+User+Profile...+];[+Access+Granted...+]" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+Domain-Expansion+%F0%9F%91%8B;Kv-Ramana01+%7C+Jujutsu+Sorcerer+XD;[+Initializing+User+Profile...+];[+Access+Granted...+]" alt="Typing SVG" />
   </a>
 </div>
 
