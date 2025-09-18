@@ -8,7 +8,9 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 # 💫 About Me
 Hola!👋 I’m **K V Ramana**, a 3rd year CSE student who really really really! loves building cool stuff (sole reason why I started coding!) and figuring out how things work.  
@@ -22,16 +24,18 @@ Hola!👋 I’m **K V Ramana**, a 3rd year CSE student who really really really!
 
 I like to keep learning, experimenting, and turning ideas into actual projects is always my main goal. Doesn’t matter if it’s small or big — if it’s something I find fascinating, I’ll immediately jump on it! 🚀  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kv-ramana-2a4084243/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Kazudoesntplay) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kv42216@gmail.com)  
 
----
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 # 🛠️ Tech Stack
 <p align="center">
@@ -59,7 +63,9 @@ I like to keep learning, experimenting, and turning ideas into actual projects i
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 # 📊 GitHub Stats
 <div align="center">
@@ -73,14 +79,18 @@ I like to keep learning, experimenting, and turning ideas into actual projects i
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kv-Ramana01&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 ## 🐍 Snack the Snake.
 <p align="center">
@@ -91,24 +101,33 @@ I like to keep learning, experimenting, and turning ideas into actual projects i
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 ## 🔥 Activity Graph
 [![Ramana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kv-Ramana01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 ## ✍️ Random Quote for my fellow programmers XD
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kv-Ramana01&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
+</p>
 
 <p align="center">
   <b>"Code. Create. Conquer."</b> 🚀
