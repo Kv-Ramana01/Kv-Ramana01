@@ -33,9 +33,6 @@ I like to keep learning, experimenting, and turning ideas into actual projects i
 
 
 
----
-
-
 # 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
