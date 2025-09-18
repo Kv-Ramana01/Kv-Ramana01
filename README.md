@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/header.gif" alt="Cyberpunk Cityscape">
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/header.gif" style="width:600px; height:auto;" alt="Cyberpunk Cityscape">
 </p>
 
 <div align="center">
