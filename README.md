@@ -1,72 +1,60 @@
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+I'm+KV+Ramana+👋;CSE+3rd+Year+Student;Android+Dev+📱+%7C+AI+Enthusiast🤖;DSA+Lover+%7C+Open+Source+Contributor;Always+Learning+🚀" />
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/header.gif" alt="Cyberpunk Cityscape">
 </p>
 
----
-
-# Hi there, I'm KV Ramana 👋  
-💻 3rd Year CSE Student | 🚀 Android Dev & AI Enthusiast | 🎯 DSA Explorer  
-
----
-
-## 🚀 About Me
-- 🎓 Pursuing B.Tech CSE (Graduating 2027)  
-- 📱 Building Android Apps (Jetpack Compose + Firebase + AI)  
-- 🤖 Experimenting with AI & Data Science  
-- 🧩 Solving DSA problems on LeetCode/Codeforces  
-- 🎥 Tech + Fun Content Creator  
-
----
-
-## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,androidstudio,firebase,git,github,mysql,linux,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kv-Ramana01&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kv-Ramana01&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+  <a href="https://github.com/Kv-Ramana01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+Cyber-Domain+%F0%9F%91%8B;Kv-Ramana01+%7C+Digital+Architect;[+Initializing+User+Profile...+];[+Access+Granted...+]" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kv-Ramana01&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
 </p>
 
----
+<table width="100%" border="0" style="border:none;">
+  <tr style="border:none;">
+    <td width="65%" valign="top" style="border:none;">
+      
+      <h3><img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/icon_about.gif" width="30px">&nbsp; About Me</h3>
+      <blockquote>
+        <p>Full-stack developer and competitive programmer navigating the digital universe. I build robust, scalable applications and thrive on solving complex problems. Currently mastering Go and Rust while diving deep into distributed systems. My goal is to architect the code that powers the future.</p>
+      </blockquote>
 
-## 🏆 GitHub Achievements
+      <h3><img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/icon_tech.gif" width="30px">&nbsp; Tech Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,prisma,graphql,docker,kubernetes,aws,gcp,git,github,vscode,figma,postman,linux,bash,ts,py,go,rust&perline=10&theme=dark" alt="My Skills"/>
+      </p>
+
+      <h3><img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/icon_connect.gif" width="30px">&nbsp; Connect With Me</h3>
+      <p>
+        <a href="--> YOUR-LINKEDIN-URL <--" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="--> YOUR-TWITTER-URL <--" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+        <a href="mailto:--> YOUR-EMAIL-ADDRESS <--" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      </p>
+    </td>
+
+    <td width="35%" valign="top" align="center" style="border:none;">
+      <a href="https://github.com/Kv-Ramana01">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kv-Ramana01&show_icons=true&theme=synthwave&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kv-Ramana01&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kv-Ramana01&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kv-Ramana01&theme=onedark&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/main/assets/divider.gif" width="100%">
 </p>
 
----
+<div align="center">
+  <h3><img src="https://media.giphy.com/media/qLHzYjlA2QqA6gqeeN/giphy.gif" width="50px">&nbsp; GitHub Contribution Snake & Trophies &nbsp;<img src="https://media.giphy.com/media/qLHzYjlA2QqA6gqeeN/giphy.gif" width="50px"></h3>
+  <img src="https://github.com/Kv-Ramana01/Kv-Ramana01/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kv-Ramana01&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-## 🌟 Featured Projects
-- 📱 [**Chat App with Gemini AI**](https://github.com/Kv-Ramana01) *(add repo link when public)*  
-- 🤖 [**Discord Bot**](https://github.com/Kv-Ramana01) *(add repo link)*  
-- 📊 [**Data Science Internship Project**](https://github.com/Kv-Ramana01) *(add repo link)*  
-- 🎮 [**DSA Practice Repo**](https://github.com/Kv-Ramana01) *(add repo link)*  
-
----
-
-## 🐍 Contribution Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kv-Ramana01/Kv-Ramana01/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Kv-Ramana01&label=USER_VISITS&color=00BFFF&style=for-the-badge" alt="Profile views" />
 </p>
-
----
-
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/kv-ramana"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://www.youtube.com/@YOURCHANNEL"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&style=for-the-badge"></a>
-  <a href="https://twitter.com/YOURHANDLE"><img src="https://img.shields.io/badge/-Twitter-black?logo=twitter&style=for-the-badge"></a>
-</p>
-
----
-
-✨ *"Code. Create. Conquer."* 🚀  
