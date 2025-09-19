@@ -18,9 +18,10 @@ Hola!👋 I’m **K V Ramana**, a 3rd year CSE student who really really really!
 💻 Mostly found coding in **C, C++, Python, and Java** (but my main language is **C++**).  
 📱 Had some kick for **Android development**, really enjoyed the learning process for building apps.  
 🧩 Big on **DSA practice** — not just for contests but because I enjoy the problem-solving grind. I solve questions on whichever platform I see on my comet tab lol. But yeah, my main profiles are **LeetCode** and **Codeforces**.  
-📊 Messed around with **Data Science/ML projects**, but that just made me fall in love with everything *around* ML itself.  
+📊 Messed around with **Data Science/ML projects**, but that just made me fall in love with everything **except** ML itself 💀.  
 🎥 When I’m not coding, I’m either exploring new tech, making random content, or vibing with games/music.  
-🌌 I also love **astronomy** as a side hobby.  
+🌌 I also love **astronomy** ,watching **anime** and reading **manhwas**.
+-->if you geek about tech, games or anime | manhwa as well then lets connect right now! why waste time? XD
 
 I like to keep learning, experimenting, and turning ideas into actual projects is always my main goal. Doesn’t matter if it’s small or big — if it’s something I find fascinating, I’ll immediately jump on it! 🚀  
 
