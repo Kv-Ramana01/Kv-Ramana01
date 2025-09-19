@@ -21,6 +21,7 @@ Hola!👋 I’m **K V Ramana**, a 3rd year CSE student who really really really!
 📊 Messed around with **Data Science/ML projects**, but that just made me fall in love with everything **except** ML itself 💀.  
 🎥 When I’m not coding, I’m either exploring new tech, making random content, or vibing with games/music.  
 🌌 I also love **astronomy** ,watching **anime** and reading **manhwas**.
+<br>
 -->if you geek about tech, games or anime | manhwa as well then lets connect right now! why waste time? XD
 
 I like to keep learning, experimenting, and turning ideas into actual projects is always my main goal. Doesn’t matter if it’s small or big — if it’s something I find fascinating, I’ll immediately jump on it! 🚀  
