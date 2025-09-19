@@ -71,7 +71,9 @@ I like to keep learning, experimenting, and turning ideas into actual projects i
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Kv-Ramana01&theme=rose&hide_border=false&show_icons=true" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=Kv-Ramana01&theme=rose&hide_border=false" height="180px"/>
+  <img src="https://streak-stats.vercel.app?user=Kv-Ramana01&theme=rose&hide_border=false" height="180px"/>
+
+
 
   <br/>
 
