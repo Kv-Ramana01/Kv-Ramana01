@@ -13,7 +13,7 @@
 </p>
 
 # 💫 About Me
-Hola!👋 I’m **K V Ramana**, a 3rd year CSE student who really really really! loves building cool stuff (sole reason why I started coding!) and figuring out how things work.  
+Hola!👋 I’m **K V ramnaa**, a 3rd year CSE student who really really really! loves building cool stuff (sole reason why I started coding!) and figuring out how things work.  
 
 💻 Mostly found coding in **C, C++, Python, and Java** (but my main language is **C++**).  
 📱 Had some kick for **Android development**, really enjoyed the learning process for building apps.  
