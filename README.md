@@ -20,7 +20,7 @@ Hola!👋 I’m **K V Ramana**, a 3rd year CSE student who really really really!
 🧩 Big on **DSA practice** — not just for contests but because I enjoy the problem-solving grind. I solve questions on whichever platform I see on my comet tab lol. But yeah, my main profiles are **LeetCode** and **Codeforces**.  
 📊 Messed around with **Data Science/ML projects**, but that just made me fall in love with everything **except** ML itself 💀.  
 🎥 When I’m not coding, I’m either exploring new tech, making random content, or vibing with games/music.  
-🌌 I also love **astronomy** ,watching **anime** and reading **manhwas**.
+🌌 I also love **Astronomy** ,watching **Anime** and reading **Manhwas**.
 <br>
 -->If you geek about tech, games or anime | manhwa as well then lets connect right now! Why waste time? XD
 
